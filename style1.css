@@ -27,13 +27,7 @@ body
 	padding: 10px 10px;
 }
 
-.footer
-{
-	height: 50px;
-	width: 1450px;
-	background-color: #006F71;
-	clear: right;
-}
+
 .loginBox
 {
 	width: 320px;
@@ -120,3 +114,11 @@ body
 {
 	color: #006F71;
 }
+
+footer {background-color: #006F71;
+						clear: right;
+						color: rgb(186, 186, 156);
+						font-size: 0.9em;
+						padding: 10px 0px;
+						text-align: center;
+						}
